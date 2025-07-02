@@ -1,0 +1,84 @@
+[
+  {
+    "category": "Mobile",
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "color": "Black",
+    "width": 390,
+    "height": 844,
+    "name": "iPhone 13",
+    "url": "https://cdn.jsdelivr.net/gh/SaoRamesh/Mockups@main/phone/iPhone%2013.png"
+  },
+  {
+    "category": "Mobile",
+    "brand": "Apple",
+    "model": "iPhone 13 Mini",
+    "width": 375,
+    "height": 812,
+    "color": "Blue",
+    "name": "iPhone 13 Mini",
+    "url": "https://cdn.jsdelivr.net/gh/SaoRamesh/Mockups@main/phone/iPhone%2013%20mini.png"
+  },
+  {
+    "category": "Mobile",
+    "brand": "Samsung",
+    "width": 360,
+    "height": 800,
+    "model": "Galaxy S21",
+    "color": "Silver",
+    "name": "Galaxy S21",
+    "url": "https://cdn.jsdelivr.net/gh/SaoRamesh/Mockups@main/phone/Samsung%20Galaxy%20S21.png"
+  },
+  {
+    "category": "Laptop",
+    "width": 1440,
+    "height": 900,
+    "brand": "Apple",
+    "model": "MacBook Air",
+    "color": "Silver",
+    "name": "MacBook Air",
+    "url": "https://raw.githubusercontent.com/SaoRamesh/Mockups/main/Laptop/MacBook%20Air%20-%2013_.svg"
+  },
+  {
+    "category": "Laptop",
+    "width": 1920,
+    "height": 1080,
+    "brand": "Dell",
+    "model": "XPS 13",
+    "color": "Black",
+    "name": "Dell XPS 13",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/SaoRamesh/Mockups@main/laptop/Dell%20XPS%2013.png"
+  },
+  {
+    "category": "Tablet",
+    "width": 1024,
+    "height": 1366,
+    "brand": "Apple",
+    "model": "iPad Pro",
+    "color": "Space Gray",
+    "name": "iPad Pro",
+    "url": "https://cdn.jsdelivr.net/gh/SaoRamesh/Mockups@main/tablet/iPad%20Pro.png"
+  },
+  {
+    "category": "Computer",
+    "width": 2560,
+    "height": 1440,
+    "brand": "Apple",
+    "model": "iMac 24",
+    "color": "Blue",
+    "name": "iMac 24-inch",
+    "isNew": true,
+    "url": "https://raw.githubusercontent.com/SaoRamesh/Mockups/main/Computer/iMac%2024_.svg"
+  },
+  {
+    "category": "Watch",
+    "width": 396,
+    "height": 484,
+    "brand": "Apple",
+    "model": "Watch Series 7",
+    "color": "Midnight",
+    "name": "Apple Watch S7",
+    "url": "https://cdn.jsdelivr.net/gh/SaoRamesh/Mockups@main/watch/Apple%20Watch%20Series%207.png"
+  }
+]
